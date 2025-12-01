@@ -28,7 +28,7 @@ The core technology of ALIVE is an AI-based chat system powered by Large Languag
 
 
 
-## 👫🏻 Team[Integral] Members
+## 👫🏻 Team Members
 | Name | Organization | Email |
 |-------|-------|-------|
 | Hanyeong Ko | Hanyang University Dept. of Information Systems Seoul, South Korea | lilla9907@hanyang.ac.kr |
