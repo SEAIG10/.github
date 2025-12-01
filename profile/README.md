@@ -1,7 +1,7 @@
 # 💬 LOCUS: AI-Driven Household Context-Awareness for Predictive Cleaning
 > 25-2 Hanyang University Software Engineering Project 
 
-![Frame 5049](https://github.com/user-attachments/assets/397ce825-0f39-495e-ba03-d05dd81cdd6d)
+<img width="1416" height="804" alt="image" src="https://github.com/user-attachments/assets/240c4482-d23a-405a-8979-ce53ef67fb05" />
 <br/><br/>
 
 
