@@ -19,7 +19,7 @@ We propose LOCUS (Learning On-device Context and User-specific Schedules), a pre
 [🔗 Click below Image 👇 🔗](유튜브 링크 TBD)
 <br/>
 <a href="https://www.youtube.com/watch?v=xoD5vsCmPoc">
-![Image](https://github.com/user-attachments/assets/17f12668-e4a5-44db-935b-c54b75bd7609)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24cbe0f4-61b5-4900-985a-be9bd5b87b37" />
 </a>
 <br/><br/>
 
