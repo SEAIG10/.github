@@ -1,7 +1,7 @@
 # 💬 LOCUS: AI-Driven Household Context-Awareness for Predictive Cleaning
 > 25-2 Hanyang University Software Engineering Project 
 
-<img src="document/LOCUS.jpg" width="800" alt="LOCUS 구조도">
+<img src="document/LOCUS.jpg" width="800" alt="(https://github.com/user-attachments/assets/270450f6-e79c-4435-9c61-3e85b888e186)">
 
 
 ## ✔️ Proposal
@@ -19,7 +19,7 @@ We propose LOCUS (Learning On-device Context and User-specific Schedules), a pre
 [🔗 Click below Image 👇 🔗](유튜브 링크 TBD)
 <br/>
 <a href="https://www.youtube.com/watch?v=xoD5vsCmPoc">
-![KakaoTalk_Photo_2024-12-03-23-17-46 1](https://github.com/user-attachments/assets/29976e9a-efa9-468c-a588-56b2a9670923)
+![KakaoTalk_Photo_2024-12-03-23-17-46 1](![Image](https://github.com/user-attachments/assets/270450f6-e79c-4435-9c61-3e85b888e186))
 </a>
 <br/><br/>
 
