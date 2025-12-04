@@ -24,7 +24,7 @@ We propose LOCUS (Learning On-device Context and User-specific Schedules), a pre
 <br/><br/>
 
 ## PPT
-[LOCUS.pdf 보기](https://github.com/SEAIG10/Document/blob/main/LOCUS_PPT.pdf)
+[LOCUS.pdf](https://github.com/user-attachments/files/23944214/LOCUS.pdf)
 
 
 ## 👫🏻 Team Members
