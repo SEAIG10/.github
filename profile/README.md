@@ -14,7 +14,17 @@
 - [LOCUS_AI Paper (PDF)](https://github.com/SEAIG10/Document/blob/main/LOCUS_AI.pdf)
 
 ## ✔️ Proposal
-We propose LOCUS (Learning On-device Context and User-specific Schedules), a predictive cleaning system powered by On-device AI. Unlike traditional "reactive" robot vacuums that depend on rigid schedules, LOCUS establishes a "Proactive Partner" system that anticipates cleaning needs based on dynamic household contexts. The system comprehensively perceives the domestic environment by integrating multi-modal data—including home structure (Apple RoomPlan), visual context (YOLO), and audio context (YAMNet)—to interpret scenarios such as "dining" or "cooking". The core technology of LOCUS is the TimeSyncBuffer, which aligns asynchronous sensor streams to feed a GRU-based sequential model, enabling real-time prediction of contamination probabilities. Furthermore, LOCUS ensures complete privacy protection through strict edge computing and Personalized Federated Learning (FedPer), offering a smart home solution that adapts to user lifestyles without compromising sensitive data.
+We propose LOCUS (Learning On-device Context and User-specific Schedules), a Predictive Cleaning System powered by On-device AI.
+
+While hardware for robot vacuums has advanced, software remains "reactive," relying on rigid schedules that fail to address dynamic messes (e.g., crumbs dropped while snacking). LOCUS shifts this paradigm by establishing a "Proactive Partner" system that anticipates cleaning needs based on real-time household contexts.
+
+Our approach focuses on three core innovations:
+
+- Predictive Cleaning: Unlike traditional obstacle avoidance, LOCUS interprets high-level scenarios (e.g., "cooking," "dining") by integrating multi-modal data—visual context (YOLO) and audio cues (YAMNet). The system utilizes a proprietary TimeSyncBuffer to align these asynchronous sensor streams, feeding them into a GRU-based sequential model to predict contamination probabilities in real-time.
+
+- Strict On-device AI: To eliminate privacy risks associated with cloud-based processing, LOCUS processes all sensitive data (images, voice) locally on the edge. No raw sensor data is transmitted to the cloud, ensuring complete data sovereignty.
+
+- Personalized Federated Learning (FedPer): Recognizing that every home is unique, LOCUS employs the FedPer architecture. This splits the model into a shared 'Base' and a personal 'Head', allowing the AI to learn user-specific lifestyle patterns without exposing private data to the central server.
 <br/><br/>
 
 
