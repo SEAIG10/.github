@@ -19,7 +19,7 @@ We propose LOCUS (Learning On-device Context and User-specific Schedules), a pre
 
 
 ## 🔧 Architecture Design
-<img width="1393" height="562" alt="Image" src="https://github.com/user-attachments/assets/80f4d493-f3f0-44b4-b6ce-0750c1e8fb57" />
+<img width="1393" height="562" alt="image" src="https://github.com/user-attachments/assets/6db02384-1b1f-42ff-92cc-897346b7459f" />
 <br/><br/>
 
 
