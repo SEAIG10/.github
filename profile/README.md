@@ -43,7 +43,7 @@ Our approach focuses on three core innovations:
 <br/><br/>
 
 ## PPT
-[LOCUS.pdf](https://github.com/user-attachments/files/23944214/LOCUS.pdf)
+[LOCUS.pdf](https://github.com/SEAIG10/Document/blob/main/LOCUS_PPT.pdf)
 
 
 ## 👫🏻 Team Members
