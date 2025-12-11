@@ -20,7 +20,7 @@ While hardware for robot vacuums has advanced, software remains "reactive," rely
 
 Our approach focuses on three core innovations:
 
-- Predictive Cleaning: Unlike traditional obstacle avoidance, LOCUS interprets high-level scenarios (e.g., "cooking," "dining") by integrating multi-modal data—visual context (YOLO) and audio cues (YAMNet). The system utilizes a proprietary TimeSyncBuffer to align these asynchronous sensor streams, feeding them into a GRU-based sequential model to predict contamination probabilities in real-time.
+- Predictive Cleaning: Unlike traditional obstacle avoidance, LOCUS interprets high-level scenarios (e.g., "cooking," "dining") by integrating multi-modal data—visual context (YOLO), audio cues (YAMNet) and spatial data(ARKit). The system utilizes a proprietary TimeSyncBuffer to align these asynchronous sensor streams, feeding them into a GRU-based sequential model to predict contamination probabilities in real-time.
 
 - Strict On-device AI: To eliminate privacy risks associated with cloud-based processing, LOCUS processes all sensitive data (images, voice) locally on the edge. No raw sensor data is transmitted to the cloud, ensuring complete data sovereignty.
 
