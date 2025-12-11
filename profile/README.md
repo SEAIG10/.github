@@ -9,7 +9,7 @@
 
 ### AI Technical Documentation
 - [LOCUS AI Technical Blog
-(Notion)](https://four-starflower-749.notion.site/LOCUS-2bf39484d2c080a3a651c6f58b573d30)
+(Notion)](https://bit.ly/44mHsRG)
 - [LOCUS_AI Paper (PDF)](https://github.com/SEAIG10/Document/blob/main/LOCUS_AI.pdf)
 
 ## ✔️ Proposal
