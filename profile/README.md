@@ -1,6 +1,7 @@
 # 💬 LOCUS: AI-Driven Household Context-Awareness for Predictive Cleaning
-> 25-2 Hanyang University Software Engineering Project 
-
+> 25-2 Hanyang University Software Engineering Project
+## Blog
+[Blog](https://bit.ly/4pV3u68)
 ![Image](https://github.com/user-attachments/assets/17f12668-e4a5-44db-935b-c54b75bd7609)
 ## 📄 Documentation
 ### Software Engineering Paper
